@@ -1,0 +1,36 @@
+Selenium
+1-Open Source Test Automation Tool
+2-Selenium Tool Suite(Selenium IDE, Selenium WebDriver, Selenium Grid)
+3-Exclusively used for test web apps on multiple browsers like Firefox, Edge, Chrome, Opera, Safari
+4-Support multiple OS(platforms) like Windows, Linux, MacOS,
+5-Support multiple programming languages like Java, C#, Javascript, Ruby, Python
+-----------------------------------------------------------------------------------
+Selenium WebDriver
+1-create robust, browser-based regression automation suites and tests,
+ scale and distribute scripts across many environments
+2-collection of language specific bindings to drive a browser
+3-Write complex script test cases
+-----------------------------------------------------------------------------------
+Selenium IDE
+1-Quick bug reproduction scripts
+2-Create scripts to aid in automation-aided exploratory testing
+3-Playback and record functionalities. Test cases based on user interactions or commands,values and functions
+4-Less used than WebDriver in complex projects
+------------------------------------------------------------------------------------
+Selenium GRID
+1-Distribute and run test on several machines and multiple enviroments
+2-Run test cases on differents browsers on different platforms
+-------------------------------------------------------------------------------------
+Selenium Architecture
+
+
+Client Library <---->JSON WireProtocol(Over HTTP)<---->Broswer Drivers <---->RealBrowsers
+						(Sel WebDriver--REST API)
+(Java,Pyton,Ruby,C#)               		   (Chrome,Firefox.)      (Chrome,Firefox.)
+---------------------------------------------------------------------------------------
+	  
+
+
+
+
+
